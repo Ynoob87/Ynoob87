@@ -38,7 +38,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/Ynoob87/my-personal-stack">
+  <a href="#">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Ynoob87 :: StackShare" />
   </a>
 </p>
