@@ -31,9 +31,6 @@ for (const [key, value] of Object.entries(GetBio())) {
   <a href="https://www.instagram.com/codingismylove/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="50" width="50">
   </a>
-  <a href="https://www.instagram.com/codingismylove/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="50" width="50">
-  </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
