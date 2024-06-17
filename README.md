@@ -1,65 +1,67 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
+    <img
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
 </h1>
 
-<h2 align="center">About me</h2>
+<h2 align="center">👋 About me 👋</h2>
 
 ```javascript
 const Bio = {
-    "- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
-    "- 🔭 I’m currently working on": "a Roblox game Realm-conquest",
-    "- 🌱 I’m currently learning": "React.js, Next.js, Twaiwind.css",
-    "- 👯 I’m looking to collaborate on": "Roblox-Project",
-    "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-    "- 💬 Ask me about": "Roblox-Commission, Web-Dev and SEO",
-    "- 📫 How to reach me:": "Discord-user:alaner652"
+"- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
+"- 🔭 I’m currently working on": "a Roblox game Realm-conquest",
+"- 🌱 I’m currently learning": "React.js, Next.js, Twaiwind.css",
+"- 👯 I’m looking to collaborate on": "Roblox-Project",
+"- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+"- 💬 Ask me about": "Roblox-Commission, Web-Dev and SEO",
+"- 📫 How to reach me:": "Discord-user:alaner652"
 };
 
 function GetBio() {
-    return Bio;
+return Bio;
 }
 
 for (const [key, value] of Object.entries(GetBio())) {
-    console.log(`${key}: ${value}`);
+console.log(`${key}: ${value}`);
 }
 
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">:alien: You can reach me at :alien:</h2>
 <p align="center">
-  <a href="https://discord.gg/RwHJk62TyF">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord-Server" height="50" width="50">
-  </a>
-  <a href="https://www.instagram.com/codingismylove/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="50" width="50">
-  </a>
+    <a href="https://discord.gg/RwHJk62TyF">
+        <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord-Server" height="50" width="50">
+    </a>
+    <a href="https://www.instagram.com/codingismylove/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"
+            alt="Instagram" height="50" width="50">
+    </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">:man_technologist: My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past
+</p>
 <p align="center">
-  <a href="#">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Ynoob87 :: StackShare" />
-  </a>
+    <a href="#">
+        <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Ynoob87 :: StackShare" />
+    </a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,firebase" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=lua,python,javascript,typescript,nodejs,c,cpp,nextjs" /><br>
+</div>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Ynoob87}/count.svg" alt="Ynoob87 :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynoob87&langs_count=10&theme=tokyonight&layout=compact" alt="Ynoob87 :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=synthwave" alt="Ynoob87 :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ynoob87&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ynoob87&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ---
 
