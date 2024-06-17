@@ -23,7 +23,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 
 ```
 
-<h2 align="center">You can reach me at </h2>
+<h2 align="center">You can reach me at :alien:</h2>
 <p align="center">
   <a href="https://discord.gg/RwHJk62TyF">
     <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord-Server" height="50" width="50">
