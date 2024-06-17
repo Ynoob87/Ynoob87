@@ -1,5 +1,8 @@
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h2 align="center">About me</h2>
+
 ```javascript
 const Bio = {
     "- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
