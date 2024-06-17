@@ -26,9 +26,12 @@ for (const [key, value] of Object.entries(GetBio())) {
 <h2 align="center">You can reach me at :Ynoob87:</h2>
 
 <p align="center">
-  <a href="https://gitlab.com/Ynoob87">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="small R's GitLab Profile" height="30" width="30">
+  <a href="https://discord.gg/RwHJk62TyF">
+    <img src="https://banner2.cleanpng.com/20180627/kqx/kisspng-computer-icons-discord-logo-discord-icon-5b3371b3afd2b1.6821300515300980997202.jpg" alt="small R's GitLab Profile" height="30" width="30">
   </a>
+
+
+    
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
