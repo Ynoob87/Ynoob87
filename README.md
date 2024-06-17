@@ -23,17 +23,15 @@ for (const [key, value] of Object.entries(GetBio())) {
 
 ```
 
-<h2 align="center">You can reach me at :Ynoob87:</h2>
-
+<h2 align="center">You can reach me at </h2>
 <p align="center">
   <a href="https://discord.gg/RwHJk62TyF">
-    <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="small R's commission DC Server  " height="50" width="50">
+    <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord-Server" height="50" width="50">
   </a>
 
   <a href="https://www.instagram.com/codingismylove/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="small R's instagram" height="50" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="50" width="50">
   </a>
-  
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
