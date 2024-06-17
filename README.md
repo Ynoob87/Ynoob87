@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 
-```js
+```javascript
 const Bio = {
     "- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
     "- 🔭 I’m currently working on": "a Roblox game Realm-conquest",
