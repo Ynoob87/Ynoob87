@@ -30,23 +30,11 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at :Ynoob87:</h2>
 
 <p align="center">
-  <a href="https://dev.to/Ynoob87">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/Ynoob87">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
   <a href="https://gitlab.com/Ynoob87">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="small R's GitLab Profile" height="30" width="30">
   </a>
 </p>
 
