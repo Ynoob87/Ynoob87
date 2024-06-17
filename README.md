@@ -30,8 +30,10 @@ for (const [key, value] of Object.entries(GetBio())) {
     <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="small R's commission DC Server  " height="50" width="50">
   </a>
 
-
-    
+  <a href="https://www.instagram.com/codingismylove/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwH--J-ZMUg8puNfUxE6YXQi3yVHuAORDxow&s" alt="small R's instagram" height="50" width="50">
+  </a>
+  
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
