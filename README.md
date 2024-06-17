@@ -10,7 +10,7 @@ const Bio = {
     "- 👯 I’m looking to collaborate on": "Roblox-Project",
     "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
     "- 💬 Ask me about": "Roblox-Commission, Web-Dev and SEO",
-    "- 📫 How to reach me:": "https://github.com/Ynoob87#you-can-reach-me-at-alien"
+    "- 📫 How to reach me:": "Discord-user:alaner652"
 };
 
 function GetBio() {
