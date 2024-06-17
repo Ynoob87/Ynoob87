@@ -50,9 +50,9 @@ console.log(`${key}: ${value}`);
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwind,git" />
     <br />
-    <img src="https://skillicons.dev/icons?i=lua,python,javascript,typescript,nodejs,c,cpp,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=lua,python,javascript,typescript,nodejs,c,cpp,firebase" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
