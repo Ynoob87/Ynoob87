@@ -27,7 +27,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 
 <p align="center">
   <a href="https://discord.gg/RwHJk62TyF">
-    <img src="https://banner2.cleanpng.com/20180627/kqx/kisspng-computer-icons-discord-logo-discord-icon-5b3371b3afd2b1.6821300515300980997202.jpg" alt="small R's GitLab Profile" height="30" width="30">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-black-icon.png" alt="small R's commission DC Server  " height="50" width="50">
   </a>
 
 
