@@ -37,16 +37,6 @@ for (const [key, value] of Object.entries(GetBio())) {
     </a>
 </p>
 
-<h2 align="center">:man_technologist: My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past
-</p>
-<p align="center">
-    <a href="#">
-        <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Ynoob87 :: StackShare" />
-    </a>
-</p>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
@@ -62,6 +52,3 @@ for (const [key, value] of Object.entries(GetBio())) {
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ynoob87&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
----
-⭐️ From [@Ynoob87](https://github.com/Ynoob87)
