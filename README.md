@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ynoob87.Ynoob87" />
 
+<br>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
 </h1>
 
 <h1 align="center">👋 About-Me 👋</h1>
