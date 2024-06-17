@@ -2,4 +2,4 @@
 
 <h2 align="center">About me</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Ynoob87}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
