@@ -1,4 +1,4 @@
-# small R
+# Hello i am small R
 
 <h2 align="center">About me</h2>
 
