@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ynoob87" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ynoob87.Ynoob87" />
 
 <h2 align="center">About me</h2>
 
