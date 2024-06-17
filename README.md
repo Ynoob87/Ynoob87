@@ -7,23 +7,22 @@
 
 ```javascript
 const Bio = {
-"- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
-"- 🔭 I’m currently working on": "a Roblox game Realm-conquest",
-"- 🌱 I’m currently learning": "React.js, Next.js, Twaiwind.css",
-"- 👯 I’m looking to collaborate on": "Roblox-Project",
-"- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-"- 💬 Ask me about": "Roblox-Commission, Web-Dev and SEO",
-"- 📫 How to reach me:": "Discord-user:alaner652"
+    "- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
+    "- 🔭 I’m currently working on": "a Roblox game Realm-conquest",
+    "- 🌱 I’m currently learning": "React.js, Next.js, Twaiwind.css",
+    "- 👯 I’m looking to collaborate on": "Roblox-Project",
+    "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+    "- 💬 Ask me about": "Roblox-Commission, Web-Dev and SEO",
+    "- 📫 How to reach me:": "Discord-user:alaner652"
 };
 
 function GetBio() {
-return Bio;
+    return Bio;
 }
 
 for (const [key, value] of Object.entries(GetBio())) {
-console.log(`${key}: ${value}`);
+    console.log(`${key}: ${value}`);
 }
-
 ```
 
 <h2 align="center">:alien: You can reach me at :alien:</h2>
