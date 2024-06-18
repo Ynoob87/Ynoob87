@@ -4,7 +4,7 @@
 <!--開頭文字-->
 <br>
 <img align="center"
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
 <hr />
 
 <!--關於我-->
