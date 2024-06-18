@@ -10,12 +10,12 @@
 <!--關於我-->
 <h1 align="center">👋 About-Me 👋</h1>
 
-<!--自我介紹 代碼區塊-->
+<!--代碼區塊-->
 ```javascript
 const Bio = {
     "- ⚡ Quick bio:": "I'm a 16 years old student from Taiwan",
     "- 🔭 I’m currently working on": "Roblox Dev Realm-conquest, Web Dev",
-    "- 🌱 I’m currently learning": "React.js, Next.js, Twaiwind.css",
+    "- 🌱 I’m currently learning": "English, React.js, Next.js, Twaiwind.css",
     "- 👯 I’m looking to collaborate on": "Roblox-Project",
     "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
     "- 💬 Ask me about": "Roblox-Commissions, Web-Dev and SEO",
