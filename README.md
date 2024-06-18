@@ -9,6 +9,7 @@
 
 <!--關於我-->
 <h1 align="center">👋 About-Me 👋</h1>
+<br>
 
 <!--代碼區塊-->
 ```javascript
@@ -32,6 +33,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 ```
 
 <!--聯絡管道-->
+<br>
 <div align="center">
   <a href="mailto:hhgg12661@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -71,6 +73,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 <hr />
 
 <!--贊助hehehehe-->
+<h1 align="center">❤️ Donate ❤️</h1>
 <br>
 <div align="center">
   <a href='https://ko-fi.com/smallr' target='_blank'><img height='64' style='border:0px;height:64px;'
