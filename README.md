@@ -1,21 +1,23 @@
+<!--閱覽計數器-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ynoob87.Ynoob87" />
-
+<!--開頭文字-->
 <br>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
 </h1>
-
+<!--關於我-->
 <h1 align="center">👋 About-Me 👋</h1>
 <br>
 
+<!--代碼區塊-->
 ```javascript
 const Bio = {
-    "- ⚡ Quick bio:": "Roblox-Dev, Web-Dev",
-    "- 🔭 I’m currently working on": "a Roblox game Realm-conquest",
+    "- ⚡ Quick bio:": "I'm a 16 years old student from Taiwan",
+    "- 🔭 I’m currently working on": "Roblox Dev Realm-conquest, Web Dev",
     "- 🌱 I’m currently learning": "React.js, Next.js, Twaiwind.css",
     "- 👯 I’m looking to collaborate on": "Roblox-Project",
     "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-    "- 💬 Ask me about": "Roblox-Commission, Web-Dev and SEO",
+    "- 💬 Ask me about": "Roblox-Commissions, Web-Dev and SEO",
     "- 📫 How to reach me:": "Discord-user:alaner652"
 };
 
@@ -28,6 +30,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 }
 ```
 
+<!--聯絡管道-->
 <div align="center"> 
   <a href="mailto:hhgg12661@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,9 +42,9 @@ for (const [key, value] of Object.entries(GetBio())) {
      <img src="https://img.shields.io/badge/Instagram-FF5151?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <hr/>
 
+<!--語言框架和工具-->
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <br>
 <div align="center">
@@ -51,6 +54,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 </div>
 <hr/>
 
+<!--GitHub Stats-->
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
@@ -60,6 +64,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 </div>
 <hr/>
 
+<!--贊助hehehehe-->
 <br>
 <div align="center">
 <a href='https://ko-fi.com/smallr' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
