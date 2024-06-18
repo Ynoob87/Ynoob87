@@ -59,7 +59,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 </div>
 <hr />
 
-<!--GitHub Stats-->
+<!--GitHub 狀態-->
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <div align=center>
