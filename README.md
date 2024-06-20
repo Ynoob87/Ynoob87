@@ -64,11 +64,12 @@ for (const [key, value] of Object.entries(GetBio())) {
 <br>
 <div align=center>
   <img width=390
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=Ynoob87&count_private=true&show_icons=false&theme=react&rank_icon=github&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=radical"
     alt="readme stats" />
-  <br />
+  <br/>
+  <br/>
   <img width=325 align="center" alt="top langs"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ynoob87&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ynoob87&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
 <hr />
 
