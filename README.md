@@ -62,7 +62,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 <!--GitHub 狀態-->
 <h1 align="center">⚡ Stats ⚡</h1>
 <br>
-<div align=center>
+<div align=center display=grid>
   <img width=390
     src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=radical"
     alt="readme stats" />
