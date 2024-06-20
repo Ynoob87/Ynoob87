@@ -64,7 +64,7 @@ for (const [key, value] of Object.entries(GetBio())) {
 <br>
 <div align=center>
   <img width=390
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=Ynoob87&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=Ynoob87&count_private=true&show_icons=false&theme=react&rank_icon=github&border_radius=10"
     alt="readme stats" />
   <br />
   <img width=325 align="center" alt="top langs"
