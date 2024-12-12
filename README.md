@@ -1,70 +1,95 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Small+R+%F0%9F%91%8B;A+Passionate+Developer+from+Taiwan" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="mailto:hhgg12661@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Ynoob87">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/alaner652">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://smallr-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Small+R" alt="Small R" />
+  </h1>
+  <h3>Full-Stack Developer | Game Developer</h3>
   
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Ynoob87&style=flat-square&color=6366F1" alt="Profile Views" />
+  <p>
+    <a href="https://smallr-portfolio.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:hhgg12661@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/alaner652">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-I'm a **16-year-old developer** from Taiwan, passionate about creating digital experiences that make a difference. Currently focusing on:
+> A passionate 16-year-old developer from Taiwan, focused on creating impactful digital experiences
 
-- 🎮 **Game Development**: 4+ years of Roblox development with Lua/Luau
-- 🌐 **Web Development**: Building modern web apps with Next.js & Tailwind CSS
-- 🚀 **Full Stack**: Learning both frontend and backend technologies
-- 🌱 Always exploring new technologies and best practices
+### 🎯 Current Focus
 
-## ⚡ Tech Stack
+- Full-Stack Development with modern web technologies
+- Game Development using Roblox Studio & Lua
+- UI/UX Design and Implementation
+- Learning backend technologies and system architecture
+
+### 🌟 Highlights
+
+- 🎓 Information Engineering Student at Taipei City University of Science and Technology
+- 🎮 4+ years of Roblox development experience with $300+ USD revenue
+- 🌐 Proficient in both English and Traditional Chinese
+- 🚀 Strong passion for learning and problem-solving
+
+## 💻 Tech Stack
+
+### Frontend Development
+
+- Next.js, React, TypeScript
+- Tailwind CSS, Framer Motion
+- Responsive Design, SEO Optimization
+
+### Backend & Tools
+
+- Node.js, MongoDB
+- RESTful APIs
+- Git, GitHub
+
+### Game Development
+
+- Lua/Luau
+- Roblox Studio
+- Game Logic Design
+- UI/UX Implementation
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,lua,python,cpp,mongodb,git&perline=5" />
 </div>
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-<img align="right" alt="Game Dev" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/gaming.gif">
+### Portfolio Website
 
-### 🎮 Roblox Development
+- Modern and responsive design with Next.js 15
+- Internationalization (EN/中文) support
+- Dark/Light theme with smooth transitions
+- Performance and SEO optimized
+- [Live Demo](https://smallr-portfolio.vercel.app)
+
+### Roblox Game Development
 
 - Multiple successful game projects
 - Over $300 USD and 100k Robux in revenue
-- Expertise in game mechanics and UI/UX
+- Custom game mechanics and UI systems
+- Active player engagement
 
-### 🌐 Web Development
-
-- Personal portfolio built with Next.js 15
-- Focus on performance and accessibility
-- International support (EN/中文)
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Ynoob87&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=issues&card_width=495" />
+  
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynoob87&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynoob87&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
-<br clear="both">
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
-  <h4>💖 Thanks for visiting! Let's connect and create something amazing together!</h4>
+  <h4>💡 Always exploring new technologies and open to collaboration!</h4>
 </div>
