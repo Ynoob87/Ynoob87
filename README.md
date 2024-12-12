@@ -1,82 +1,72 @@
-<!--閱覽計數器-->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ynoob87.Ynoob87" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Small+R+%F0%9F%91%8B;A+Passionate+Developer+from+Taiwan" alt="Typing SVG" />
+</div>
 
-<!--開頭文字-->
-<br>
-<img align="center"
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=65&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Small+R!;Welcome+To+My+GitHub+Profile;" />
-<hr />
-
-<!--關於我-->
-<h1 align="center">👋 About-Me 👋</h1>
-<br>
-
-<!--代碼區塊-->
-```javascript
-const Bio = {
-    "- ⚡ Quick bio:": "I'm a 16 years old student from Taiwan",
-    "- 🔭 I’m currently working on": "Roblox Dev Realm-conquest, Web Dev",
-    "- 🌱 I’m currently learning": "English, React.js, Next.js, Twaiwind.css",
-    "- 👯 I’m looking to collaborate on": "Roblox-Project",
-    "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
-    "- 💬 Ask me about": "Roblox-Commissions, Web-Dev and SEO",
-    "- 📫 How to reach me:": "Discord-user:alaner652"
-};
-
-function GetBio() {
-    return Bio;
-}
-
-for (const [key, value] of Object.entries(GetBio())) {
-    console.log(`${key}: ${value}`);
-}
-```
-
-<!--聯絡管道-->
-<br>
 <div align="center">
   <a href="mailto:hhgg12661@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.gg/RwHJk62TyF" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white"
-      target="_blank" />
+  <a href="https://github.com/Ynoob87">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/codingismylove/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF5151?style=for-the-badge&logo=instagram&logoColor=white"
-      target="_blank" />
+  <a href="https://www.linkedin.com/in/alaner652">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-<hr />
-
-<!--語言框架和工具-->
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwind,git" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=lua,python,javascript,typescript,nodejs,c,cpp,firebase" /><br>
-</div>
-<hr />
-
-<!--GitHub 狀態-->
-<h1 align="center">⚡ Stats ⚡</h1>
-<br>
-<div align=center display=grid>
-  <img width=390
-    src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=radical"
-    alt="readme stats" />
+  <a href="https://smallr-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  
   <br/>
-  <br/>
-  <img width=325 align="center" alt="top langs"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ynoob87&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+  <img src="https://komarev.com/ghpvc/?username=Ynoob87&style=flat-square&color=6366F1" alt="Profile Views" />
 </div>
-<hr />
 
-<!--贊助hehehehe-->
-<h1 align="center">❤️ Donate ❤️</h1>
-<br>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
+## 💫 About Me
+
+I'm a **16-year-old developer** from Taiwan, passionate about creating digital experiences that make a difference. Currently focusing on:
+
+- 🎮 **Game Development**: 4+ years of Roblox development with Lua/Luau
+- 🌐 **Web Development**: Building modern web apps with Next.js & Tailwind CSS
+- 🚀 **Full Stack**: Learning both frontend and backend technologies
+- 🌱 Always exploring new technologies and best practices
+
+## ⚡ Tech Stack
+
 <div align="center">
-  <a href='https://ko-fi.com/smallr' target='_blank'><img height='64' style='border:0px;height:64px;'
-      src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,lua,python,cpp,mongodb,git&perline=5" />
+</div>
+
+## 📊 Featured Projects
+
+<img align="right" alt="Game Dev" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/gaming.gif">
+
+### 🎮 Roblox Development
+
+- Multiple successful game projects
+- Over $300 USD and 100k Robux in revenue
+- Expertise in game mechanics and UI/UX
+
+### 🌐 Web Development
+
+- Personal portfolio built with Next.js 15
+- Focus on performance and accessibility
+- International support (EN/中文)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Ynoob87&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynoob87&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+<br clear="both">
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+  <h4>💖 Thanks for visiting! Let's connect and create something amazing together!</h4>
 </div>
