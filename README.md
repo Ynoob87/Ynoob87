@@ -20,8 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ynoob87&style=flat-square&color=6366F1" alt="Profile Views" />
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
 ## 💫 About Me
 
 I'm a **16-year-old developer** from Taiwan, passionate about creating digital experiences that make a difference. Currently focusing on:
