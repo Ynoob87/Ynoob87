@@ -19,42 +19,41 @@
 
 ## 👨‍💻 About Me
 
-> A passionate 16-year-old developer from Taiwan, focused on creating impactful digital experiences
+> Passionate developer who loves coding, automation, and game development
 
-### 🎯 Current Focus
+### 🎯 What I Love
 
-- Full-Stack Development with modern web technologies
-- Game Development using Roblox Studio & Lua
-- UI/UX Design and Implementation
-- Learning backend technologies and system architecture
+- Writing clean and efficient code
+- Building full-stack web applications
+- Developing games with Roblox Studio & Lua
+- Automating tasks with scripts and bots
 
 ### 🌟 Highlights
 
 - 🎓 Information Engineering Student at Taipei City University of Science and Technology
-- 🎮 4+ years of Roblox development experience with $300+ USD revenue
-- 🌐 Proficient in both English and Traditional Chinese
-- 🚀 Strong passion for learning and problem-solving
+- 🎮 5+ years of Roblox development experience
+- 🛠️ Enjoys automation, game dev, and web dev
+- 🚀 Always learning new technologies
 
 ## 💻 Tech Stack
 
-### Frontend Development
+### Programming Languages
 
-- Next.js, React, TypeScript
-- Tailwind CSS, Framer Motion
-- Responsive Design, SEO Optimization
+- JavaScript (JS) / TypeScript (TS)
+- Lua / Luau
+- C++ / Python
 
-### Backend & Tools
+### Web Development
 
-- Node.js, MongoDB
-- RESTful APIs
-- Git, GitHub
+- Next.js, React, Tailwind CSS
+- Node.js, REST APIs, MongoDB
+- Git, GitHub, SEO Optimization
 
 ### Game Development
 
-- Lua/Luau
-- Roblox Studio
-- Game Logic Design
-- UI/UX Implementation
+- Lua & Roblox Studio
+- Custom game logic & UI design
+- Multiplayer & client-server synchronization
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,lua,python,cpp,mongodb,git&perline=5" />
@@ -62,19 +61,18 @@
 
 ## 🚀 Featured Projects
 
-### Portfolio Website
+### 🎨 Portfolio Website
 
-- Modern and responsive design with Next.js 15
-- Internationalization (EN/中文) support
+- Built with Next.js 15 + Tailwind CSS
+- Supports English & Chinese (i18n)
 - Dark/Light theme with smooth transitions
 - Performance and SEO optimized
 - [Live Demo](https://smallr-portfolio.vercel.app)
 
-### Roblox Game Development
+### 🎮 Roblox Game Development
 
-- Multiple successful game projects
-- Over $300 USD and 100k Robux in revenue
-- Custom game mechanics and UI systems
+- Custom UI and game mechanics
+- Multiple successful projects
 - Active player engagement
 
 ## 📊 GitHub Stats
