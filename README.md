@@ -46,34 +46,17 @@
 ### Web Development
 
 - Next.js, React, Tailwind CSS
-- Node.js, REST APIs, MongoDB
+- Node.js, REST APIs, MongoDB, Appwrite
 - Git, GitHub, SEO Optimization
 
 ### Game Development
 
 - Lua & Roblox Studio
-- Custom game logic & UI design
-- Multiplayer & client-server synchronization
+- Custom game logic & UI design logic
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,lua,python,cpp,mongodb,git&perline=5" />
 </div>
-
-## 🚀 Featured Projects
-
-### 🎨 Portfolio Website
-
-- Built with Next.js 15 + Tailwind CSS
-- Supports English & Chinese (i18n)
-- Dark/Light theme with smooth transitions
-- Performance and SEO optimized
-- [Live Demo](https://smallr-portfolio.vercel.app)
-
-### 🎮 Roblox Game Development
-
-- Custom UI and game mechanics
-- Multiple successful projects
-- Active player engagement
 
 ## 📊 GitHub Stats
 
