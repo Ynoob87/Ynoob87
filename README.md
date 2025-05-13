@@ -5,7 +5,7 @@
   <h3>Full-Stack Developer | Game Developer</h3>
   
   <p>
-    <a href="https://smallr-portfolio.vercel.app">
+    <a href="https://smallr-portfolio-2025.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:hhgg12661@gmail.com">
@@ -19,43 +19,25 @@
 
 ## 👨‍💻 About Me
 
-> Passionate developer who loves coding, automation, and game development
+Passionate developer currently honing skills in full-stack development, game development, and algorithm design. Actively improving coding proficiency, tackling new challenges, and refining problem-solving techniques.
 
-### 🎯 What I Love
+### 🎯 What I’m Working On
 
-- Writing clean and efficient code
-- Building full-stack web applications
-- Developing games with Roblox Studio & Lua
-- Automating tasks with scripts and bots
+- **LeetCode**: Practicing algorithm and data structure challenges to enhance problem-solving skills.
+- **Full-Stack Projects**: Building and refining full-stack applications with Next.js.
+- **Game Development**: Developing interactive experiences using Roblox Studio and Lua, with a focus on game mechanics and custom UI designs.
 
 ### 🌟 Highlights
 
-- 🎓 Information Engineering Student at Taipei City University of Science and Technology
-- 🎮 5+ years of Roblox development experience
-- 🛠️ Enjoys automation, game dev, and web dev
-- 🚀 Always learning new technologies
+- 🎓 Student majoring in Information Engineering at Taipei University of Science and Technology.
+- 🎮 Many years of experience in Roblox game development.
+- 🚀 Currently working on improving my LeetCode score, studying algorithms, system design, and solving coding challenges to prepare for software engineering opportunities.
+- 🛠️Actively learn new technologies and improve code quality.
 
 ## 💻 Tech Stack
 
-### Programming Languages
-
-- JavaScript (JS) / TypeScript (TS)
-- Lua / Luau
-- C++ / Python
-
-### Web Development
-
-- Next.js, React, Tailwind CSS
-- Node.js, REST APIs, MongoDB, Appwrite
-- Git, GitHub, SEO Optimization
-
-### Game Development
-
-- Lua & Roblox Studio
-- Custom game logic & UI design logic
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,lua,python,cpp,mongodb,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git&perline=15" />
 </div>
 
 ## 📊 GitHub Stats
